@@ -1,4 +1,4 @@
-# porjeto-powerBi
+# Projeto Power BI
 Esse dashboard foi realizado como desafio do curso de Power BI da plataforma Alura.
 
 O desafio era criar um dashboard para um petshop, que trouxesse as seguintes informações:
